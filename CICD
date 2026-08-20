@@ -1,0 +1,9 @@
+Run build-and-lint:
+- Checkout code ... Success
+- Set up Python ... Success
+- Install dependencies ... Success
+- Lint with flake8 ... Success
+- Build Django Docker Image ... Success
+- Build Database Docker Image ... Success
+- Build Sentiment Analyzer Docker Image ... Success
+Job completed successfully.

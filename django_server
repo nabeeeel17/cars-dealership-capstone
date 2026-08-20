@@ -1,0 +1,5 @@
+System check identified no issues (0 silenced).
+August 20, 2026 - 20:30:00
+Django version 5.2.17, using settings 'djangobackend.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
